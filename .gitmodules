@@ -1,0 +1,3 @@
+[submodule "src/SubTest"]
+	path = src/SubTest
+	url = https://github.com/sandeepsoftsuave/SubTest.git
