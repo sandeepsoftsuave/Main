@@ -1,12 +1,8 @@
-import './App.css';
-import AppDrawer from './SubTest/src/AppDrawer'
+import SubApp from './SubTest/src/SubApp'
 function App() {
   return (
     <div className="App">
-     <div>
-       <h1>Main Test</h1>
-       <AppDrawer />
-       </div>
+    <SubApp />
     </div>
   );
 }
