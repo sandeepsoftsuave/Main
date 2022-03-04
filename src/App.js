@@ -1,8 +1,11 @@
-import SubApp from './SubTest/src/SubApp'
+import SubApp from "./SubTest/src/SubApp";
+import WelcomePage from "./Welcome/WelcomePage";
+
 function App() {
   return (
     <div className="App">
-    <SubApp />
+      <SubApp />
+      <WelcomePage />
     </div>
   );
 }

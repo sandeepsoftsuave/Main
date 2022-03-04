@@ -1,0 +1,20 @@
+.welcome_layout {
+  height: 100%;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.layout_container {
+  align-items: center !important;
+  display: flex !important;
+  flex-direction: column;
+  padding: 15% 10%;
+  border: 2px #ddd;
+  border-style: dashed !important;
+}
+
+.welcome_text {
+  font-size: 2em;
+  font-weight: 500;
+}
